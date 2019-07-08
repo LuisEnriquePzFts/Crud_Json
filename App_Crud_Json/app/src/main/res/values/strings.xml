@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_Crud_Json</string>
+    <string name="agregar_emp">Agregar Empleado</string>
+    <string name="visualizar_emp">Vizualizar Empleados</string>
+    <string name="nombre">Nombre:</string>
+    <string name="puesto">Puesto:</string>
+    <string name="salario">Salario</string>
+    <string name="actualizar">Actualizar Empleado</string>
+    <string name="eliminar">Eliminar Empleado</string>
+</resources>
